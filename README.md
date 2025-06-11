@@ -139,7 +139,6 @@ tabulate
 agno
 ````
 
-Let me know if you want this `README.md` formatted for Hugging Face Spaces or Streamlit Community Cloud instead.
 <img width="1465" alt="Screenshot 2025-06-11 at 5 33 32 PM" src="https://github.com/user-attachments/assets/6aee258d-0004-42b1-95f2-659f0ed38374" />
 
 <img width="1421" alt="Screenshot 2025-06-11 at 5 34 58 PM" src="https://github.com/user-attachments/assets/f7449f79-46da-4eb0-a506-bf3068fda1a2" />
